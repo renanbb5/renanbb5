@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @renanbb5
-- 👀 I’m interested in Bioinformatics, Systematic Reviews, Cancer, Molecular Biology
+- 👀 I’m interested in Bioinformatics, Systematic Reviews and Python
 - 🌱 I’m currently learning to code
 - 💞️ I’m looking to collaborate on Bioinfo projects
 - 📫 How to reach me: https://www.linkedin.com/in/renan-barbosa-borges-707b23212/
